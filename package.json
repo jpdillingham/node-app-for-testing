@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies":{
-    "jest-coverage-merge": "^0"
+    "jest-coverage-merge": "1.0.0"
   }
 }
